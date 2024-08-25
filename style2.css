@@ -1,0 +1,39 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.second-section
+{
+    background-color: darkkhaki;
+    margin-bottom: 10px;
+
+}
+.second-section h1{
+    color: orangered;
+    text-decoration: underline;
+    margin-left: 50pxpx;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.second-section div p::first-letter
+{
+    color: green;
+    font-size: 40px;
+    font-style: italic;
+}
+.image
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.end-image
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
